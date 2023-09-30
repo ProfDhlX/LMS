@@ -10,6 +10,9 @@ using namespace std;
 class User;
 class Admin;
 class Student;
+void clear(){
+    system("cls");
+}
 
 class Book
 {
@@ -184,6 +187,7 @@ public:
             default:
                 cout << "Invalid choice. Try again.\n";
             }
+            clear();
         }
     }
 
