@@ -273,7 +273,7 @@ public:
 int main()
 {
     Library library;
-    Admin admin("WEKAAS", "@@@");
+    Admin admin("admin", "admin");
     Student student("student123");
 
     string username, password;
@@ -283,7 +283,7 @@ int main()
     cout << "Enter your password: ";
     cin >> password;
 
-    if (username == "WEKAAS" && admin.authenticate(password))
+    if (username == "admin" && admin.authenticate(password))
     {
         admin.adminMenu(library);
     }
