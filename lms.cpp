@@ -277,7 +277,7 @@ int main()
     Student student("student123");
 
     string username, password;
-    cout << "\n                    -------------------WELCOME TO LIBRARY MANAGEMENT SYSTEM------------------------\n";
+    cout << "\n                    -------------------WELCOME TO LIBRARY MANAGEMENT SYSTEM------------------------ \n";
     cout << "Enter your username: ";
     cin >> username;
     cout << "Enter your password: ";
