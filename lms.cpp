@@ -210,15 +210,19 @@ public:
         case 1:
         category = "Story";
         break;
+        
         case 2:
         category = "Poetry";
         break;
+
         case 3:
         category = "Course Book";
         break;
+
         case 4:
         category = "Novel";
         break;
+
         case 5:
         category = "Drama";
         break;
