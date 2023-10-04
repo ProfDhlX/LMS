@@ -12,7 +12,7 @@ This is a simple Library Management System implemented in C++. It allows both ad
   - Logout from the admin account.
 
 - **Student Menu**:
-  - View book categories (currently not implemented).
+  - View book categories(implemented)
   - Borrow a book (currently not implemented).
   - Return a book (currently not implemented).
   - Logout from the student account.
