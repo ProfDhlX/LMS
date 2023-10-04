@@ -25,10 +25,11 @@ This is a simple Library Management System implemented in C++. It allows both ad
 
 3. You will be prompted to enter your username and password:
    - For admin access, use the following credentials:
-     - Username: `WEKAAS`
-     - Password: `@@@`
+     - Username: `admin`
+     - Password: `admin`
    - For student access, use the following credentials:
      - Username: `student123`
+     -password:  `password123`
 
 4. Follow the menu prompts to interact with the library management system.
 
