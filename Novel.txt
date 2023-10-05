@@ -1,5 +1,3 @@
-Title: dad, Author: fsdf
-Title: kera ko kera, Author: kera parshad
 Book Name: kewal, Available Stocks: 34, Author: dahal
 Book Name: kewal, Available Stocks: 34, Author: dahal
 Book Name: kewal, Available Stocks: 34, Author: dahal
