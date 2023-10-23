@@ -51,6 +51,8 @@ public:
         updateCategoryFile(category, title, author, quantity);
     }
 
+    //------------------------------//
+
     void deleteBook(const string &title, const string &category) {
         for (auto it = books.begin(); it != books.end(); ++it) {
             if (it->getTitle() == title) {
